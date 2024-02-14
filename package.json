@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/d4v1d03/ghcr_token#readme"
 }
+"publishConfig": {
+  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+}
